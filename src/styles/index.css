@@ -1,0 +1,37 @@
+.inputFields {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.dropdown {
+    border: 1px solid gray;
+    margin: 200px 3px 30px 3px;
+    padding: 0 !important;
+    border-radius: 5px;
+    width: 181px;
+    text-align: center;
+}
+
+input {
+    margin: 200px 3px 30px 3px;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.dropdown {
+    padding: 6px;
+}
+
+.reserveButton {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-bottom: 40px;
+}
+
+.data {
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 10px;
+}
